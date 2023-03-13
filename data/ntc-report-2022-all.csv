@@ -1,0 +1,434 @@
+route_id,route,, distance_km , daily_km 
+430,Mathugama,Pettah, 67 ," 57,852 "
+155,Soyzapura,Mattakkuliya, 23 ," 54,264 "
+100,Panadura,Colombo, 30 ," 50,527 "
+176,Karagampitiya,Hettiyawattha, 36 ," 42,206 "
+120,Horana,Pettah, 41 ," 38,329 "
+103,Narahenpita,Fort, 7 ," 27,540 "
+122,Avissawella,Pettah, 57 ," 24,096 "
+400,Aluthgama,Pettah, 61 ," 23,347 "
+240,Negombo,Pettah, 39 ," 19,970 "
+178,Narahenpita,Mattakkuliya, 11 ," 18,590 "
+400/1,Kaluthara,Pettah, 43 ," 17,208 "
+101,Moratuwa,Pettah, 23 ," 16,054 "
+138,Homagama,Pettah, 25 ," 13,700 "
+145,Mattakkuliya,Seemamalakaya, 9 ," 13,464 "
+176,Nugegoda,Hettiyawattha, 13 ," 12,410 "
+120,Kesbewa,Pettah, 26 ," 12,054 "
+177,Kaduwela,Kollupitiya, 19 ," 11,381 "
+154,Kiribathgoda,Angulana, 26 ," 10,799 "
+187,Airport,Fort, 34 ," 10,445 "
+255,Kottawa,Mt.Lavinia, 26 ," 8,864 "
+100,Moratuwa,Pettah, 22 ," 8,712 "
+138,Kottawa,Pettah, 20 ," 8,560 "
+190,Meegoda,Pettah, 29 ," 8,006 "
+170,Authurugiriya,Pettah, 21 ," 7,663 "
+265,Minuwangoda,Pettah, 33 ," 7,019 "
+138,Maharagama,Pettah, 16 ," 6,720 "
+125,Padukka,Pettah, 35 ," 6,090 "
+44986,Avissawella,Pettah, 42 ," 6,041 "
+285,Mathugama,Horana, 42 ," 5,330 "
+200,Gampaha,Pettah, 32 ," 5,316 "
+180,Nittambuwa,Pettah, 43 ," 5,294 "
+143,Hanwella,Pettah, 28 ," 5,040 "
+163,Wideshasewa,Dehiwala, 12 ," 5,034 "
+192,Moratuwa,Maharagama, 18 ," 4,840 "
+124,Ihalabope,Maharagama, 28 ," 4,704 "
+174,Kottawa,Borella, 15 ," 3,886 "
+138/2,Matthegoda,Pettah, 25 ," 3,750 "
+139,Kahathuduwa,Kalubowila, 16 ," 3,680 "
+141,Wellawattha,Narahenpita, 5 ," 3,524 "
+162,Bandaragama,Pettah, 36 ," 3,375 "
+128,Kottawa,Thalagala, 15 ," 3,240 "
+430/1,Kaluthara,Mathugama, 23 ," 3,220 "
+127,Moragahahena,Piliyandala, 19 ," 3,211 "
+341,Maharagama,Piliyandala, 8 ," 3,154 "
+119,Dehiwala,Maharagama, 8 ," 3,032 "
+240,Negombo,Colombo, 41 ," 2,945 "
+143,Kaduwela,Pettah, 13 ," 2,886 "
+697,Homagama,Kaduwela, 18 ," 2,880 "
+242,Negombo,Diwulapitiya, 21 ," 2,758 "
+138/4,Authurugiriya,Pettah, 30 ," 2,742 "
+119,Nugegoda,Maharagama, 6 ," 2,736 "
+183,Panadura,Nugegoda, 23 ," 2,674 "
+125/1,Maharagama,Ingiriya, 45 ," 2,593 "
+470,Avissawella,Hanwella, 18 ," 2,592 "
+162/1,Bandaragama,Piliyandala, 15 ," 2,556 "
+458,Horana,Mathugama, 35 ," 2,542 "
+262,Ragama,Pettah, 15 ," 2,520 "
+188,Raddoluwa,Colombo, 26 ," 2,496 "
+171,Pelawattha,Fort, 12 ," 2,420 "
+420,Kaluthara,Horana, 22 ," 2,376 "
+342,Piliyandala,Kottawa, 18 ," 2,288 "
+293,Homagama,Hanwella, 17 ," 2,258 "
+125,Ingiriya,Pettah, 51 ," 2,244 "
+138/3,Rukmalgama,Pettah, 28 ," 2,184 "
+451,Panadura,Newdawa, 7 ," 2,112 "
+245/1,Weyangoda,Air Port, 22 ," 2,112 "
+244,Gamapaha,Negombo, 28 ," 2,070 "
+107,Elakanda,Fort, 14 ," 2,052 "
+103,Borella,Fort, 5 ," 2,040 "
+270,Gampaha,Airport, 22 ," 2,020 "
+450/7,Horana,Ingiriya, 18 ," 2,016 "
+689,Nugegoda,Kudadeniya, 17 ," 1,904 "
+400/4,Kaluthara V,Aluthgama, 18 ," 1,872 "
+187,Ja,Ela, 18 ," 1,872 "
+698,Homagama,Kaduwela, 19 ," 1,843 "
+441,Aluthgama,Mathugama, 23 ," 1,840 "
+428,Walallawita,Pettah, 90 ," 1,804 "
+273,Negombo,Ja, 25 ," 1,764 "
+139/1,Piliyandala,Kalubowila, 9 ," 1,710 "
+245,Minuwangoda,Negombo, 19 ," 1,698 "
+221,Nittambuwa,Giriulla, 27 ," 1,662 "
+315,Meepe,Horana, 19 ," 1,650 "
+138,Kadawatha,Fort, 17 ," 1,646 "
+224,Pugoda,Pettah, 39 ," 1,621 "
+135,Kelaniya,Kohuwala, 18 ," 1,601 "
+425,Kaluthara,Bandaragama, 18 ," 1,546 "
+268,Minuwangoda,Badalgama, 19 ," 1,498 "
+175,Kohilawattha,Kollupitiya, 13 ," 1,463 "
+228/1,Gamapaha,Kaduwela, 23 ," 1,451 "
+166,Angoda,Slave Island, 13 ," 1,434 "
+433,Baduraliya,Pettah, 89 ," 1,422 "
+202,Gampaha,Kiridiwela, 22 ," 1,364 "
+228,Weliweriya,Pettah, 31 ," 1,298 "
+152,Battharamulla,Pettah, 15 ," 1,290 "
+282,Horana,Padukka, 19 ," 1,275 "
+275,Bopitiya,Pettah, 24 ," 1,269 "
+400/7,Kaluthara,Panadura, 15 ," 1,260 "
+144,Rajagiriya,Pettah, 7 ," 1,232 "
+431/2,Kudaligama,Colombo, 101 ," 1,212 "
+344,Athurugiriya,Malabe, 9 ," 1,204 "
+993,Maharagama,Malabe, 8 ," 1,200 "
+296,Piliyandal,Kottawa, 8 ," 1,131 "
+435,Pelawattha,Pettah, 94 ," 1,130 "
+153,Jayawardhananpura Hospital,, 11 ," 1,123 "
+24,Avitthawa,Colombo, 93 ," 1,111 "
+201,Gampaha,Ja, 15 ," 1,066 "
+125,Maharagama,Padukka, 26 ," 1,040 "
+157,Piliyandala,Kahapola, 9 ," 1,026 "
+162/2,Piliyandala,Ambalangoda, 8 ," 1,024 "
+148,Labugama,Pettah, 43 ," 1,020 "
+336,Kottawa,Malabe, 9 ," 1,008 "
+164,Salmaluyana,Townhall, 13 , 973 
+182,Padukka,Hanwella, 8 , 960 
+201,Gampaha,Nittambuwa, 45 , 893 
+182,Kiridiwela,Hanwella, 17 , 885 
+231,Kiridiwela,Gamapaha, 23 , 882 
+239,Padukka,Waga, 11 , 880 
+265/1,Minuwangoda,Divulapitiya, 11 , 864 
+168,Nugegoda,Kotahena, 17 , 840 
+464,Gonapola,Bandaragama, 7 , 814 
+207,Pugoda,Gamapaha, 29 , 812 
+152,Gothatuwa,Pettah, 10 , 790 
+341/2,Maharagama,Bokundara, 5 , 784 
+423,Kaluthara,Neboda, 22 , 781 
+433,Hedigalla,Pettah, 96 , 768 
+261,Mhara Junction,Pettah, 21 , 756 
+150,Kelaniya,Seemamalakaya, 15 , 754 
+234,Delgoda,Pettah, 24 , 752 
+138/1,Kirillawala,Fort, 22 , 750 
+433/1,Kalugala,Pettah, 93 , 747 
+211,Gamapaha,Diwulapitiya, 21 , 721 
+900,Watthala,Ragama, 12 , 720 
+276,Kandana,Gampaha, 15 , 715 
+345,Maharagama,Katuwawala, 6 , 710 
+182,Nittambuwa,Kiridiwela, 16 , 680 
+433/4,Mathugama,Baduraliya, 18 , 655 
+122/400,Avissawella,Aluthgama, 67 , 652 
+149,Piliyandala,Bandaragama, 13 , 558 
+380,Kaduwela,Kiribathgoda, 14 , 552 
+514,Weliweriya,Fort, 28 , 550 
+205,Kiridiwela,Gamapaha, 21 , 547 
+142,Moratuwa,Panadura, 7 , 546 
+158,Moratuwa,Piliyandala, 7 , 546 
+983,Wattala,Kiribathgoda, 8 , 540 
+423/400,Neboda,Pettah, 65 , 523 
+418,Yatadolawattha,Pettah, 64 , 512 
+422,Palapola,Kaluthra, 13 , 508 
+428/1,Mathugama,Avitthawa, 31 , 499 
+271,Ragama,Kandana, 7 , 497 
+403/2,Pelawattha,Neluwa, 31 , 496 
+45040,Avitthawa,Aluthgama, 31 , 494 
+462,Atalugama,Panadura, 14 , 493 
+285/7,Ingiriya,Bulathsinghala, 15 , 490 
+242,Meerigama,Diwulapitiya, 22 , 484 
+435/403,Mathugama,Naduwattha, 40 , 480 
+185,Weyangoda,Kiridiwela, 16 , 448 
+230,Kiribathgoda,Pettah, 17 , 447 
+435-2,Mathugama,Pelawattha, 28 , 440 
+459,Anguruwathota,Panadura, 28 , 440 
+400/5,Kaluthara,Nagoda, 5 , 420 
+463,Moronthuduwa,Panadura, 12 , 418 
+189,Weyangoda,Pasyala, 16 , 416 
+208,Moratuwa,Idibadda, 7 , 416 
+264,Ragama,Ja, 7 , 408 
+223,Kadawatha,Ganemulla, 9 , 400 
+219,Homagama,Hanwella, 16 , 384 
+250,Negombo,Madampella, 16 , 384 
+457,Panadura,Hirana, 7 , 365 
+987,Weyangoda,Algama, 18 , 350 
+438,Kalawellawa,Pettah, 87 , 346 
+142,Panadura,Moratuwa, 7 , 345 
+44981,Galathara,Colombo, 85 , 340 
+341/1,Maharagama,Katuwawala, 6 , 331 
+161,Angulana,Galle Road, 2 , 319 
+434,Dhartonfield,Pettah, 79 , 316 
+316,Horana,Hadapangoda, 14 , 308 
+412,Meegama,Colombo, 74 , 296 
+376,Ragama,Kandana, 7 , 288 
+122,Avissawella,, 47 , 282 
+795,Piliyandala,Gonamadittha, 4 , 280 
+251,Meerigama,Negombo, 35 , 280 
+453,Kiriberiya,Panadura, 6 , 269 
+128/1,Maharagama,, 17 , 264 
+281,Horana,Thalgahawila, 16 , 256 
+125/190/4,Thiniyawala,Colombo, 127 , 254 
+157/1,Piliyandala,Makandana, 4 , 252 
+280/138,Diyagama,Pettah, 21 , 252 
+982,Gampaha,Maradagahmula, 18 , 251 
+272/2,Weyangoda,Mahakanda, 25 , 250 
+226,Dekatana,Pettah, 25 , 249 
+435/4,Mathugama,Agalawattha, 6 , 244 
+44943,Nittambuwa,Panadura, 60 , 240 
+102/256,Kotahena,Borupana, 24 , 240 
+100/1,Varagama,Pettah, 39 , 235 
+284,Horana,Moronthuduwa, 15 , 232 
+452,Panadura,Rukgahathotupala, 8 , 228 
+422,Kaluthara,Moronthuduwa, 11 , 224 
+222,Kadawatha,Ragama, 6 , 224 
+128-Y,Yakahaluwa,Pettah, 37 , 222 
+366,Halbarawa,Homagama, 9 , 216 
+286/1,Bulathsinghala,Kelinkanda, 27 , 216 
+453/2,Malamulla,Panadura, 7 , 210 
+185/2,Weyangoda,Rukgahwila, 15 , 210 
+267/1,Raddoluwa,Ja, 11 , 210 
+971/1,Tharunasewamwth,Panadura, 17 , 204 
+218,Parakandeniya,Fort, 25 , 200 
+446,Kaluthara,Neboda(Wellatha), 24 , 192 
+905,Negombo,Kochchikade, 8 , 192 
+437,Molkawa,Pettah, 94 , 188 
+441/1,Kalupahana,Pettah, 93 , 187 
+286,Bulathsinghala,Paragoda, 9 , 186 
+139/3,Piliyandala,Koralaima, 11 , 181 
+465,Gonapola,Panadura, 18 , 180 
+885/1,Gawaragiriya,Ingiriya, 30 , 180 
+180/2,Ranpokunugama,Pettah, 45 , 180 
+454,Panadura,Mahawila, 6 , 176 
+193,Kadawatha,Townhall, 18 , 175 
+285/430,Thannahena,Colombo, 84 , 168 
+437,Makeliella,Colombo, 84 , 168 
+219,Hanwella,Wevelpanawa, 7 , 168 
+422/1,Mathugama,Gulawita, 27 , 161 
+149/2,Piliyandala,Homagama, 16 , 160 
+162/3,Atulugama,Pettah, 40 , 160 
+203,Homagama,Horagala, 10 , 160 
+219,Hanwella,Pettah, 40 , 160 
+239/2,Avissawella,Padukka, 10 , 160 
+225/1,Delgoda,Kiridiwela, 20 , 158 
+289,Horana,Wagawattha, 10 , 157 
+436,Omattha,Colombo, 78 , 156 
+458/430,Warakagoda,Colombo, 78 , 156 
+997,Moratuwa,Diggala, 7 , 156 
+441/400,Welipanna,Colombo, 77 , 155 
+458/1,Mathugama,Pettah(Neboda), 76 , 152 
+450/9,Panadura,Mahabellana, 6 , 151 
+435/4,Rathmalay,Pettah, 75 , 150 
+255/1,Katubedda,Molpe, 2 , 150 
+325,Ragama,Welipillewa, 6 , 149 
+433/4,Agalawattha,Pettah, 73 , 146 
+237,Hanwella,Kaduwela, 12 , 144 
+297,Sikuradapola,Maharagama, 7 , 140 
+100/2,Wadduwa,Pettah, 35 , 139 
+455/1,Morawinna,Colombo, 35 , 139 
+299/2,Homagama,Nagasgodella, 12 , 138 
+966/1,Baduraliya,Pelawattha, 22 , 138 
+458/1,Neboda,Pettah, 68 , 136 
+128-P,Kottawa,Pinnakolawattha, 17 , 136 
+965/1,Mathugama,Uthugama, 22 , 132 
+299,Maharagama,Lenagala, 21 , 126 
+285/120,Bulathsinghala,Colombo, 63 , 125 
+129/1,Kottawa,Halbarawa, 16 , 124 
+128-B,Bankanwattha,Kottawa, 15 , 120 
+313,Homagama,Kalubowila, 15 , 120 
+433/5,Baduraliya,Dikhena, 20 , 120 
+201/2,Gampaha,Nittambuwa, 30 , 120 
+216,Delgoda,Kadawatha, 10 , 120 
+225,Kiridiwela,Pettah, 30 , 120 
+239/3,Avissawella,Kalatuwawa, 20 , 120 
+285/1,Bulathsinghala,Udugalakana, 15 , 120 
+443,Dikhena,Mathugama, 29 , 117 
+431,Mathugama,Kudaligama, 15 , 116 
+140,Wellampitiya,Kollupitiya, 9 , 113 
+181/1,Gampaha,Gorakadeniya, 14 , 112 
+112,Maharagama,Kotahena, 18 , 108 
+429,Meerigama,Warakapola, 14 , 108 
+187/2,Niwasipura,Fort, 27 , 108 
+456/1,Panadura,Parattha, 7 , 107 
+299/1,Maharagama,Meegodadeniya, 17 , 102 
+333,Yagoda,Fort, 25 , 100 
+356,Karabugas Handiya,Fort, 25 , 100 
+412,Aluthgama,Meegama, 12 , 99 
+403/966,Walallwita,10 Kanuwa, 16 , 96 
+686,Ingiriya,Keenagahaela, 12 , 96 
+162/3,Piliyandala,Karandeniya, 3 , 96 
+472,Singhagama,Beruwala, 7 , 91 
+441/1,Mathugama,Sanadasirigama, 15 , 90 
+311,Panadura,Thotawattha, 6 , 88 
+986,Weyangoda,Maligathenna, 17 , 85 
+311/1,Ambalandoowa,Moratuwa, 11 , 84 
+318/1,Horana,Millaniya, 11 , 84 
+157/2,Gedabuwana,Piliyandala, 2 , 84 
+463/1,Moronthuduwa,Pettah, 42 , 84 
+515,Aluthgama,Thotakanattha, 10 , 81 
+173,Nugegoda,Thotalaga, 20 , 80 
+206/1,Gamapaha,Morupala, 4 , 80 
+236,Mabima,Kiribathgoda, 10 , 80 
+259,Nugegoda,Thalapathpitiya, 5 , 80 
+284/3,Horana,Boralassa, 10 , 80 
+738,Kossinna,Aort, 26 , 79 
+472/2,Aluthgama,Kalawila, 6 , 77 
+333/1,Ganemulla,Gampaha, 19 , 76 
+121/1,Pirivena Junction,Wijerama, 2 , 72 
+990,Maharagama,Vidyala Junction, 9 , 72 
+138/5,Mullegama,Maharagama, 12 , 72 
+270/1,Gampaha,Minuwangoda, 18 , 72 
+455,Panadura,Morawinna, 4 , 70 
+343,Siyabalape,Fort, 17 , 68 
+670,Nittabuwa,Warakapola, 17 , 68 
+435-1,Mathugama,Pahalawassa, 34 , 67 
+215,Gampaha,Weeragula, 11 , 66 
+343,Mawaramandiya,Fort, 16 , 64 
+437/1,Mathugama,Kelinkanda, 32 , 64 
+196,Meerigama,Weweldeniya, 6 , 64 
+281/2,Horana,Adaviya, 8 , 64 
+187/1,Ekala,Fort, 21 , 63 
+904,Minuwangoda,Awariyawattha, 10 , 60 
+974,Gampaha,Ja, 15 , 60 
+185/4,Weyangoda,Ogodapola, 15 , 60 
+199/4,Kelaniya,Kiribathgoda, 15 , 60 
+408/9,Mathugama,Yatadola, 15 , 58 
+191,Weyangoda,Mallehewa, 14 , 56 
+251/5,Maningamuwa,Pannala, 7 , 56 
+315/1,Horana,Adawiya, 9 , 54 
+435/8,Mathugama,Palawatta, 27 , 54 
+458/5,Horana,Prebuddagama, 9 , 54 
+162/4,Piliyandala,Gangabada Road, 2 , 54 
+231/1,Kiridiwela,Avissawella, 25 , 50 
+152,Koswattha,Pettah, 12 , 48 
+264/1,Ragama,Kandana, 9 , 45 
+138/6,Ranmuthugala,Fort, 22 , 44 
+182/1,Weyangoda,Ranpokunugama, 11 , 44 
+281/2,Horana,Uduwa, 6 , 44 
+289/2,Horana,Karadana, 6 , 44 
+186,Jayawadanagama,Borella, 10 , 41 
+990/1,Maharagama,Dambahena, 3 , 40 
+206,Gamapaha,Weyangoda, 20 , 40 
+999,Meerigama,Giriulla, 10 , 39 
+295/1,Piliyandal,Hedigama, 5 , 36 
+310,Thelawala,Galle Road, 2 , 36 
+418,Yatadolawattha,Kaluthara, 18 , 36 
+266,Ja,Ela, 9 , 36 
+278,Ja,Ela, 9 , 36 
+290,Kirindiwela,Ranwala, 9 , 36 
+292,Weyangoda,Rukgahawila, 17 , 33 
+207/1,Pugoda,Wedagama, 15 , 30 
+290/1,Kirindiwela,Kendagolla, 5 , 30 
+343/1,Mawaramandiya,Kiribathgoda, 6 , 26 
+821,Gampaha,, 13 , 26 
+332,Gamapaha,Pahalayagoda, 8 , 25 
+285/5,Horana,Dikhenapura, 4 , 25 
+429/1,Meerigama,Dan Owita, 8 , 24 
+456,Panadura,Dikgala, 6 , 24 
+436/1,Omattha,Agalawattha, 11 , 23 
+270/2,Gampaha,Uggalboda, 14 , 22 
+188/1,Raddoluwa,Seeduwa, 3 , 20 
+329,Gampaha,Madalgamuwa Via, 10 , 20 
+788,Raddoluwa,Awariyawattha, 6 , 18 
+992,Gampaha,Doranagoda, 9 , 18 
+172,Moragasmulla,Borella, 4 , 18 
+221/2,Mallahawa,Weyangoda, 9 , 17 
+231/5,Gamapaha,Jambolagas, 8 , 16 
+980,Weyangoda,Keenawala, 7 , 14 
+262/2,Ragama,Dambuwa, 3 , 14 
+5/103/171,Diwulapitiya,Battharamulla, -   , -   
+5/265,Handmulla,Colombo, -   , -   
+44943,Meerigama,Pandura, -   , -   
+104,Watthala,Bambalapitiya, 15 , -   
+125/190,Bulathsinhala,Pettah, -   , -   
+127,Horana,Gonapola, 8 , -   
+128/4,Homagama,Koswattha, 8 , -   
+302,Kiribathgoda,Panchikawattha, -   , -   
+308,Homagama,Maharagama, 11 , -   
+308/1,Gonapola,Homagama Hospital, 14 , -   
+316/1,Horana,Nimalagama, -   , -   
+316/6,Panagala,Ingiriya, -   , -   
+317,Padukka,Hadapangoda, 10 , -   
+348,Nittabuwa,Ruwanwella, -   , -   
+400/5/423,Bulathsinhala,Colombo, -   , -   
+403,Nelluwa,Mathugama, -   , -   
+403/2,Neluwa,Boralugoda, 80 , -   
+403/430,Thiniyawala,Maharagama, -   , -   
+419,Kaluthara,Kethena, -   , -   
+426,Kaluthara,Serupita, -   , -   
+429/2,Meerigama,Dan Owita Via, -   , -   
+434/4,Mathugama,Dolahena, -   , -   
+435/2,Mathugama,Pelawattha (Via, 22 , -   
+435/1,Mathugama,Pahalahewessa, -   , -   
+441/400,Madawela,Pettah, -   , -   
+450/7/1,Horana,Solirajagama, -   , -   
+454/1,Mahawila,Pettah, 34 , -   
+457/1,Panadura,Bathtarmulla, 35 , -   
+458/5,Horana,Mabogoda, -   , -   
+463/1,Weeragama,Panadura, 12 , -   
+466/1,Panadura,Ambalanduwa, -   , -   
+472/400,Klawila,Colombo, -   , -   
+494/1,Kaluthara,Horana, -   , -   
+519/1,Kaluthara,Halkadawila, -   , -   
+609,Avissawella,Dalgala, 16 , -   
+670/1,Danowita,Narahenpita, -   , -   
+872,Kiribathgoda,Watthala (Via, -   , -   
+965/1,Gulavita,Colombo, -   , -   
+966/1,Hadigalla,Pelawatta, -   , -   
+980/2,Meerigama,Kaleliya, -   , -   
+981/1,Mt.Lavinia,Badowita, -   , -   
+983/2,Kiribathgoda,Wattala (Via, -   , -   
+987/1,Weyangoda,Godagama, -   , -   
+999/1,Meerigama,Giriulla (Via, -   , -   
+131,Wellampitiya,Maharagama, 16 , -   
+131/138,Kottawa,Wallampitiya, 20 , -   
+158/1,Moratuwa,Parattha, -   , -   
+182/3,Weyangoda,Naduwatta, -   , -   
+185/5,Nittambuwa,Wathurugama, -   , -   
+204/227,Rabarwattha,Biyagama, -   , -   
+210,Delgoda,Kadawatha, -   , -   
+212/174/1,Maharagama,Pettah, -   , -   
+216/2,Kadawatha,Delgoda, -   , -   
+"228/1,270",Kaduwela,Negembo, -   , -   
+231/4,Gampaha,Aluthgamawattha, -   , -   
+234/1,Delgoda,Pettah, -   , -   
+234/2,Akurumulla,Fort, -   , -   
+235,Kelaniya,Fort, 15 , -   
+239/1,Udugama,Padukka, 24 , -   
+240/100,Negombo,Panadura, -   , -   
+240/138,Negombo,Horana, -   , -   
+240/138,Negombo,Kottawa, -   , -   
+240/138,Negombo,Kaluthara, -   , -   
+240/400,Negombo,Aluthgama, -   , -   
+240/3,Negombo,Awariwatta, 13 , -   
+245-1/182,Awissawella,Weyangoda, -   , -   
+246,Negombo,Minuwangoda, 21 , -   
+261/240,Negembo,Kaduwela, -   , -   
+265,Divulapitya,Fort, -   , -   
+265/2,Minuwangoda,Sethsiripaya, -   , -   
+268/2,Gampaha,Godigmuwa, -   , -   
+272,Weyangoda,Galapitamada, 25 , -   
+272/1,Galapitamada,Weyangoda, -   , -   
+276,Gampahana,Jaela, 18 , -   
+277,Bopitiya,Pettah, -   , -   
+281/1,Horana,Horakatiya, -   , -   
+285/1,Bulathsinghala,Dewana, -   , -   
+285/2,Bulathsinghala,Niggaha, -   , -   
+285/120,Kalawellawa,Pettah, -   , -   
+289/1,Horana,Karadana(Ilimba), 7 , -   
+290/2,Kirindiwela,Kurudiya, -   , -   
